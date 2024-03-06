@@ -3,3 +3,6 @@ I never feel more happy than I do now!
 
 Also, this Readme is created and written via the "nano" command.
 Going to try to commit this!
+
+Day 2: Going to learn more!!
+
